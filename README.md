@@ -2,7 +2,7 @@
 
 ## Available Scripts
 
-In the project directory `./senderaliaWeb`, to run the app in the development mode:
+In the project directory `./senderaliaWeb-CodeBay`, to run the app in the development mode:
 ```
 $ npm install
 $ npm start
